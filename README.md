@@ -1,1 +1,1 @@
-These codes are the solution of problems that tahir has done.
+These codes are the solution of problems that Tahir has done.
