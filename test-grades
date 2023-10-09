@@ -1,0 +1,24 @@
+#include<bits/stdc++.h>
+
+using namespace std;
+
+int main() {
+    int a;
+    cin >> a;
+    if (a >= 0 and a <= 20){
+        cout << "F";
+    }
+    else if (a >= 21 and a <= 40){
+        cout << "D";
+    }
+    else if (a >= 41 and a <= 60){
+        cout << "C";
+    }
+    else if (a >= 61 and a <= 80){
+        cout << "B";
+    }
+    else if (a >= 81 and a <= 100){
+        cout << "A";
+    }
+}
+
